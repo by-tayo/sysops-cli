@@ -1,4 +1,9 @@
 # sysops-cli
+---
+
+<img width="3837" height="1027" alt="SYSOPS" src="https://github.com/user-attachments/assets/eb478bbd-8cb9-4f72-acbb-4983cb940bcd" />
+
+---
 
 A Typer-based CLI for practicing sysadmin, network engineering, and devops commands — and,
 just as much, for practicing the git branch → implement → PR → CI workflow. See
